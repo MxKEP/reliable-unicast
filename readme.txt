@@ -1,7 +1,3 @@
-Michael Polonio
-CS 446/546
-PA2
-
 client.c copies the contents from a .txt file named beforeTransfer.txt, which is
 in the same directory.
     - client takes arguments :
